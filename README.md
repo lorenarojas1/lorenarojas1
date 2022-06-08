@@ -2,7 +2,7 @@
     <img width="200" src="https://github.com/lorenarojas1/lorenrojas1/blob/main/d940b3980f628c231640adf3e1ade67bee7704b64476eb907b9886473ce3a0e8.0.png">
 </p>
 
-<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 15px> </h1>
 <p align='center'>
 </p>
 
